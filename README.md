@@ -55,7 +55,3 @@ Uma máquina que transforma café em código. </div>
 
 ## Projetos Atuais
  * Atualmente eu estou criando um **Projeto Web em C# utilizando ASP.NET Core MVC e Entity Framework** e aprimorando minhas habilidades 🌱 com cursos e videoaulas sobre essas tecnologias.
-
-## Outros
-
-![felipesaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipesaid&show_icons=true&theme=algolia)
