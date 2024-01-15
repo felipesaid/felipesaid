@@ -11,7 +11,7 @@
   
 Uma máquina que transforma café em código. </div>
 
-## :computer: Tecnologias Que Eu Amo
+## :computer: Tecnologias Que Eu Utilizo
 * Desenvolvimento Web Front-end e Back-end 
 * Aplicações .NET
 * Blockchain e NFT's
